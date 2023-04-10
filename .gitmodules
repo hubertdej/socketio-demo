@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:hubertdej/socketio-demo-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:hubertdej/socketio-demo-backend.git
